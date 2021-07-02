@@ -1,6 +1,6 @@
 """ Some code borrowed from https://github.com/tkipf/pygcn."""
 
-from __future__ import division
+from __future__ import division #导入精确除法之后，"/"执行的是精确除法
 
 import torch
 import torch.nn as nn
